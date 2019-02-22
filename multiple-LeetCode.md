@@ -1,7 +1,7 @@
 ---
 title: multiple LeetCode
 date: 2019-02-21 09:45:22
-tags:
+tags: lc
 ---
 
 LC283
